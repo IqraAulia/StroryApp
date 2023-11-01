@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">StroryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Silahkan Login</string>
+    <string name="name">Nama</string>
+    <string name="kamera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="notAkun">Belum punya akun?</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="greeting">Halo %1$s</string>
+    <string name="logout">Keluar</string>
+    <string name="pengaturan">stting</string>
+    <string name="empty_image_warning">gambar kosong</string>
+    <string name="gambar">gambar</string>
+    <string name="erorPass">Password cant less than 8 characters</string>
+    <string name="erorEmail">Email must contain user@email.com</string>
+    <string name="erorLogin">gagal login</string>
+    <string name="erorGagal">gagal</string>
+    <string name="berhasil">berhasil upload</string>
+    <string name="map">map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="lokasi">Lokasi</string>
+</resources>
